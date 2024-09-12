@@ -1,0 +1,6 @@
+site_name: Reproduction
+theme:
+  name: material
+  
+plugins:
+  - info
